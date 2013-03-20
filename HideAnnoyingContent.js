@@ -1,6 +1,8 @@
 // HideAnnoyingContent
-// @author		Vincenzo Di Biaggio - vincenzodb - vincenzodibiaggio - htt://vincenzodb.com
+// @author		Vincenzo Di Biaggio - vincenzodb - vincenzodibiaggio - http://vincenzodb.com/works/hideannoyingcontent/
 // @license		GPL
+// USAGE: When you visit your Facebook timeline a simple form appear on the top-left of page. You can simply insert your 'annoing words' and save them. After this push the button 'Hide!' to hide the contents.
+// When you have saved your words after page reload or a content-refresh you can only push the button 'Hide!'.
 
 // ==UserScript==
 // @name        HideAnnoyingContent

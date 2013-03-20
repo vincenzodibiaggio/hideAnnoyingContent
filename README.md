@@ -2,7 +2,7 @@ hideAnnoyingContent
 ==============
 
 ## Short description
-Javascript userfile to hide content on tour Facebook's timeline that contain your specified words (also work with the name of pages, friends, etc).
+Javascript userfile to hide content on your Facebook's timeline that contain your specified words (also work with the name of pages, friends, etc).
 I created this script because I have a lot of friends or pages that I like the published content, but sometimes I annoy or bore me a lot.
 
 ## Requirements
